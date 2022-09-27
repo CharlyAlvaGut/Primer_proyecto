@@ -1,10 +1,16 @@
 Hola este es mi primer archivo de texto para el proyecto de Git :3
 
 
-Actalumente esto recidiendo en México y estudio Ingeniería en Sistemas en la Escuela Superior de Cómputo "ESCOM"
+Actalumente esto residiendo en México y estudio Ingeniería en Sistemas en la Escuela Superior de Cómputo "ESCOM"
+honestamente nunca antes había escuchado hablar de "Git" y se me hace interesante aprender este tipo de cosas
+me gusta mucho programar domino los lenguajes típicos como son:
+- Java
+- C, C++, c#
+- HTML
+Y estoy tratando de aprender otros lenguajes :D
 
 
-Soy Charly, tengo 19 años y son las 3:44 pm del día 27/09/2022
+Soy Charly, tengo 19 años y son las 3:47 pm del día 27/09/2022
 
 
 Saludos!
