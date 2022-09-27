@@ -1,7 +1,7 @@
 Hola este es mi primer archivo de texto para el proyecto de Git :3
 
 
-Actalumente esto residiendo en México y estudio Ingeniería en Sistemas en la Escuela Superior de Cómputo "ESCOM"
+Actualumente esto residiendo en México y estudio Ingeniería en Sistemas en la Escuela Superior de Cómputo "ESCOM"
 honestamente nunca antes había escuchado hablar de "Git" y se me hace interesante aprender este tipo de cosas
 me gusta mucho programar domino los lenguajes típicos como son:
 - Java
